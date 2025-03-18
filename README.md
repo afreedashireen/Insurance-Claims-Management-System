@@ -101,7 +101,7 @@ Insurance-Claims-Management-System/
 └── LICENSE
 💡 How to Run This Project
 Clone the repository:
-git clone https://github.com/yourusername/Insurance-Claims-Management-System.git
+git clone https://github.com/afreedashireen/Insurance-Claims-Management-System.git
 Open SSMS:
 Run Table_Creation.sql and Data_Insertion.sql
 Open Power BI Desktop:
